@@ -1,5 +1,7 @@
 ## Howdy, I'm Aedan :wave:
 
+My real repos are hosted [here](https://git.aedanm.uk)
+
 - :school: I went to [The University of Nottingham](https://www.nottingham.ac.uk/) where I earned my MEng in Electrical and Electronic Engineering
 - :office: Currently working as a `Software Engineer` at [Codethink](https://www.codethink.co.uk/)
 - :technologist: I write code to solve problems, and only *occasionally* create more problems.
